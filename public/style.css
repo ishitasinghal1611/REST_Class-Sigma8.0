@@ -1,0 +1,21 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: blanchedalmond;
+    height: 150px;
+    width: 250px;
+    border-radius: 8px;
+}
+.user{
+    font-style: italic;
+}
+/* delete btn styling */
+button{
+    color: white;
+    background-color: #ff8484;
+    border: none;
+    border-radius: 5px;
+    padding: 4px 8px;
+    margin: 6px 0;
+}
